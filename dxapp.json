@@ -146,8 +146,7 @@
       {
         "name": "makebgen",
         "package_manager": "git",
-        "url": "https://github.com/mrcepid-rap/mrcepid-makebgen.git",
-        "tag": "v2.1.1",
+        "url": "https://github.com/JackMurzy/mrcepid-makebgen.git",
         "build_commands": "uv pip install --system ."
       }
     ]
